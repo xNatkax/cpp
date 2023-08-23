@@ -2,6 +2,7 @@
 Tasks from C++ made to practice more programming language topics.
 
 **Fundamentals** - tasks:
+
 **task-1.cpp**
 The fiscal receipt contains the following information:
     the net unit price "a",
