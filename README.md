@@ -15,8 +15,7 @@ List the results of the calculations on the screen in the form of a simplified "
 **task-2.cpp**
 Write a program that reads an integer N and then calculates and prints to the screen the value of N! 
 Note: factorial causes integer overflow very quickly. 
-Check for which values of N the program outputs the correct result. 
-Test the operation of the program for different data types (the typedef definition can be used for simplicity).
+Check for which values of N the program outputs the correct result.
 
 **task-3.cpp**
 Calculating the value of a polynomial using Horner's formula. 
